@@ -8,5 +8,6 @@ namespace AdventOfCode2024
 {
     internal class Day2
     {
+
     }
 }

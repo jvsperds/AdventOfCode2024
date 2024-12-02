@@ -34,7 +34,7 @@ namespace AdventOfCode2024
         }
         private static string GetSessionToken()
         {
-            return Environment.GetEnvironmentVariable("ADVENT_SESSION_TOKEN");
+            return File.ReadAllText(@"C:\Temp\Token.txt");
         }
     }
 }
