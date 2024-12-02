@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AdventOfCode2024": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ADVENT_SESSION_TOKEN": "53616c7465645f5f7c80d3996fe04cc467bc5540d40fbeed6aa4c64dd4da2102e828e40a06a1205de03acb14aee633f1fd8dff91af46d894d228b70b48308d71"
+      }
+    }
+  }
+}
